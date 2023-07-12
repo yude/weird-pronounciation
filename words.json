@@ -1,0 +1,497 @@
+[
+    {
+        "word": "GitHub",
+        "pronounciation": "ガイツフビ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "Uber",
+        "pronounciation": "ウーベル",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "C#",
+        "pronounciation": "シー ハッシュ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "Java",
+        "pronounciation": "じぇいゔぇ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "C++",
+        "pronounciation": "しーたすたす",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "Super Mario Bros.",
+        "pronounciation": "スペル マライオ ブロスドット",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "Python",
+        "pronounciation": "ぴちょん",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "IGBT",
+        "pronounciation": "いごぶと",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "IO DATA",
+        "pronounciation": "硫黄ダテエ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "GPU",
+        "pronounciation": "グプ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "LaTeX",
+        "pronounciation": "ラテックス",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "zlib",
+        "pronounciation": "ズライブ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "年越し",
+        "pronounciation": "トゥーシャイコーシャイ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "Spigot",
+        "pronounciation": "スパイゴッツ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "ジモティー",
+        "pronounciation": "ジャイモタィ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "Active Directory",
+        "pronounciation": "アクタイブ ダイレクトリィ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "VIVE XR Elite",
+        "pronounciation": "ヴィヴェ クスル エリテ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "Visual Studio Code",
+        "pronounciation": "バイシュアル スチューディオ コーデ",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "Bacchus",
+        "pronounciation": "バクチュス",
+        "audio": "github.mp3"
+    },
+    {
+        "word": "x86",
+        "pronounciation": "ペケヤロ",
+        "audio": ""
+    },
+    {
+        "word": "pixiv",
+        "pronounciation": "ピカイブ",
+        "audio": ""
+    },
+    {
+        "word": "numpy",
+        "pronounciation": "ナンピー",
+        "audio": ""
+    },
+    {
+        "word": "人生",
+        "pronounciation": "ひといき",
+        "audio": ""
+    },
+    {
+        "word": "unique",
+        "pronounciation": "アンイク",
+        "audio": ""
+    },
+    {
+        "word": "Qiita",
+        "pronounciation": "クワイエー",
+        "audio": ""
+    },
+    {
+        "word": "OpenCV",
+        "pronounciation": "オパンコフ",
+        "audio": ""
+    },
+    {
+        "word": "linux-firmware",
+        "pronounciation": "リンユックス フィーマウェイレイ",
+        "audio": ""
+    },
+    {
+        "word": "launch",
+        "pronounciation": "ラ ウンチ",
+        "audio": ""
+    },
+    {
+        "word": "怒槌",
+        "pronounciation": "ドトール",
+        "audio": ""
+    },
+    {
+        "word": "online",
+        "pronounciation": "オンリネ",
+        "audio": ""
+    },
+    {
+        "word": "yure",
+        "pronounciation": "ヤァー",
+        "audio": ""
+    },
+    {
+        "word": "threshold",
+        "pronounciation": "ツレッシュ オールド",
+        "audio": ""
+    },
+    {
+        "word": "IEEE",
+        "pronounciation": "イエエエ",
+        "audio": ""
+    },
+    {
+        "word": "iPhone",
+        "pronounciation": "イフィネ",
+        "audio": ""
+    },
+    {
+        "word": "Adobe",
+        "pronounciation": "エイドゥビ",
+        "audio": ""
+    },
+    {
+        "word": "Gentoo",
+        "pronounciation": "厳冬",
+        "audio": ""
+    },
+    {
+        "word": "BUFFALO",
+        "pronounciation": "ブッフェイ郎",
+        "audio": ""
+    },
+    {
+        "word": "USB PD",
+        "pronounciation": "ウスブ ペデ",
+        "audio": ""
+    },
+    {
+        "word": "Skype",
+        "pronounciation": "スキーペ",
+        "audio": ""
+    },
+    {
+        "word": "Discord",
+        "pronounciation": "ダイズコーデ",
+        "audio": ""
+    },
+    {
+        "word": "mixi",
+        "pronounciation": "毎回",
+        "audio": ""
+    },
+    {
+        "word": "Wi-Fi",
+        "pronounciation": "ダブルアイ フィー",
+        "audio": ""
+    },
+    {
+        "word": "Microsoft Bing",
+        "pronounciation": "ミクソフッ ビンジィ",
+        "audio": ""
+    },
+    {
+        "word": "Arch Linux",
+        "pronounciation": "アルケ リニュクス",
+        "audio": ""
+    },
+    {
+        "word": "comma",
+        "pronounciation": "シオーッメエイ",
+        "audio": ""
+    },
+    {
+        "word": "花火",
+        "pronounciation": "ハナバイ",
+        "audio": ""
+    },
+    {
+        "word": "GPA",
+        "pronounciation": "グパ",
+        "audio": ""
+    },
+    {
+        "word": "なかやまきんに君",
+        "pronounciation": "なかやま きんないくん",
+        "audio": ""
+    },
+    {
+        "word": "GIKEN",
+        "pronounciation": "外見",
+        "audio": ""
+    },
+    {
+        "word": "Flutter",
+        "pronounciation": "フルッテル",
+        "audio": ""
+    },
+    {
+        "word": "GU",
+        "pronounciation": "グー",
+        "audio": ""
+    },
+    {
+        "word": "KADOKAWA",
+        "pronounciation": "ケイ ドゥ ケイウェイ",
+        "audio": ""
+    },
+    {
+        "word": "OpenWrt",
+        "pronounciation": "オーペンウェルツ",
+        "audio": ""
+    },
+    {
+        "word": "Moomin",
+        "pronounciation": "モーミン",
+        "audio": ""
+    },
+    {
+        "word": "Easy Anti-Cheat",
+        "pronounciation": "エアサイ アンタイキイート",
+        "audio": ""
+    },
+    {
+        "word": "AUR",
+        "pronounciation": "アウル",
+        "audio": ""
+    },
+    {
+        "word": "Shift-JIS",
+        "pronounciation": "シャイフト ジャイス",
+        "audio": ""
+    },
+    {
+        "word": "Wikipedia",
+        "pronounciation": "ワイキーペイヂャ",
+        "audio": ""
+    },
+    {
+        "word": "SQLAlchemy",
+        "pronounciation": "スクール アルチメイ",
+        "audio": ""
+    },
+    {
+        "word": "Pictochat",
+        "pronounciation": "パイクトォクアット",
+        "audio": ""
+    },
+    {
+        "word": "Figma",
+        "pronounciation": "ファイィメエ",
+        "audio": ""
+    },
+    {
+        "word": "dig",
+        "pronounciation": "ダイジ",
+        "audio": ""
+    },
+    {
+        "word": "Amazon Prime Reading",
+        "pronounciation": "エイメイゾン プライミー リエーダイング",
+        "audio": ""
+    },
+    {
+        "word": "つみたてNISA",
+        "pronounciation": "積み立て 無いさ",
+        "audio": ""
+    },
+    {
+        "word": "Okayama",
+        "pronounciation": "オーケーエィアムア",
+        "audio": ""
+    },
+    {
+        "word": "青軸",
+        "pronounciation": "エイオジャイク",
+        "audio": ""
+    },
+    {
+        "word": "Majestouch",
+        "pronounciation": "メイジーストーゥク",
+        "audio": ""
+    },
+    {
+        "word": "Zig",
+        "pronounciation": "ザイジ",
+        "audio": ""
+    },
+    {
+        "word": "RAID",
+        "pronounciation": "ルアイドゥ",
+        "audio": ""
+    },
+    {
+        "word": "iFixit",
+        "pronounciation": "イ フィカイッツ",
+        "audio": ""
+    },
+    {
+        "word": "Snapdragon",
+        "pronounciation": "スネイプ ドレイゴヌ",
+        "audio": ""
+    },
+    {
+        "word": "virt-manager",
+        "pronounciation": "ヴィレテ マンアガー",
+        "audio": ""
+    },
+    {
+        "word": "Mi Band",
+        "pronounciation": "マイ ベイヌティー",
+        "audio": ""
+    },
+    {
+        "word": "GNOME",
+        "pronounciation": "ジエンオミー",
+        "audio": ""
+    },
+    {
+        "word": "TOSHIBA",
+        "pronounciation": "トゥシャイバ",
+        "audio": ""
+    },
+    {
+        "word": "Panasonic",
+        "pronounciation": "パンアズオナイック",
+        "audio": ""
+    },
+    {
+        "word": "KIOXIA",
+        "pronounciation": "カイオクサイア",
+        "audio": ""
+    },
+    {
+        "word": "天神",
+        "pronounciation": "ティーンジャイヌ",
+        "audio": ""
+    },
+    {
+        "word": "MIDI",
+        "pronounciation": "マイダイ",
+        "audio": ""
+    },
+    {
+        "word": "Unreal Engine",
+        "pronounciation": "ユーヌレエールエヌガイネ",
+        "audio": ""
+    },
+    {
+        "word": "JetBrains",
+        "pronounciation": "ジーツブレエアインス",
+        "audio": ""
+    },
+    {
+        "word": "bash_history",
+        "pronounciation": "ベイシ ハイスツオライ",
+        "audio": ""
+    },
+    {
+        "word": "ice coffee",
+        "pronounciation": "アイチェコフェー",
+        "audio": ""
+    },
+    {
+        "word": "Pale Ale",
+        "pronounciation": "パレアルイー",
+        "audio": ""
+    },
+    {
+        "word": "MIUI",
+        "pronounciation": "マイウイー",
+        "audio": ""
+    },
+    {
+        "word": "Arduino",
+        "pronounciation": "エイルドゥアインオー",
+        "audio": ""
+    },
+    {
+        "word": "HARD OFF",
+        "pronounciation": "ヘイラード オッフ",
+        "audio": ""
+    },
+    {
+        "word": "gif",
+        "pronounciation": "ガイフ",
+        "audio": ""
+    },
+    {
+        "word": "anti",
+        "pronounciation": "安泰",
+        "audio": ""
+    },
+    {
+        "word": "Minecraft",
+        "pronounciation": "ミーニィシーレイフツ",
+        "audio": ""
+    },
+    {
+        "word": "Unity",
+        "pronounciation": "ウナイタイ",
+        "audio": ""
+    },
+    {
+        "word": "Android Studio",
+        "pronounciation": "エインドロアイド ストゥダィオ",
+        "audio": ""
+    },
+    {
+        "word": "MacBook Air",
+        "pronounciation": "メイクボオーック アイル",
+        "audio": ""
+    },
+    {
+        "word": "Bitwarden",
+        "pronounciation": "バイツワルディーン",
+        "audio": ""
+    },
+    {
+        "word": "nicovideo",
+        "pronounciation": "ナイコヴァイデオ",
+        "audio": ""
+    },
+    {
+        "word": "Hiroshima City University",
+        "pronounciation": "ハイロシャイマ サイティー ユナイブアーサイティー",
+        "audio": ""
+    },
+    {
+        "word": "MIT License",
+        "pronounciation": "マイト ィシーエンセ",
+        "audio": ""
+    },
+    {
+        "word": "nginx",
+        "pronounciation": "ンジャインクス",
+        "audio": ""
+    },
+    {
+        "word": "Twitter",
+        "pronounciation": "トワイッター",
+        "audio": ""
+    }
+]

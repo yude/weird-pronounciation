@@ -1,6 +1,12 @@
 import path from "path";
 import fs from "fs";
 
+type Word = {
+  word: string;
+  pronounciation: string;
+  audio: string;
+};
+
 export async function getWords() {
   const filePath = path.join(process.cwd(), "words.json");
 
@@ -15,7 +21,7 @@ export default async function WordList() {
 
   return (
     <div>
-      {words.map((words) => (
+      {words.map((word: Word) => (
         <div key={words.word} className="text-center inline-block m-2">
           <p className="font-serif">{words.pronounciation}</p>
           <p className="font-mono text-3xl">{words.word}</p>

@@ -2,496 +2,693 @@
     {
         "word": "GitHub",
         "pronounciation": "ガイツフビ",
-        "audio": "github.mp3"
+        "description": "GitHub は、ソフトウェア開発プラットフォームです。Git で管理されたプロジェクトをホスティングします。",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Uber",
         "pronounciation": "ウーベル",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "C#",
         "pronounciation": "シー ハッシュ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Java",
         "pronounciation": "じぇいゔぇ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "C++",
         "pronounciation": "しーたすたす",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Super Mario Bros.",
         "pronounciation": "スペル マライオ ブロスドット",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Python",
         "pronounciation": "ぴちょん",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "IGBT",
         "pronounciation": "いごぶと",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "IO DATA",
         "pronounciation": "硫黄ダテエ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "GPU",
         "pronounciation": "グプ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "LaTeX",
         "pronounciation": "ラテックス",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "zlib",
         "pronounciation": "ズライブ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "年越し",
         "pronounciation": "トゥーシャイコーシャイ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Spigot",
         "pronounciation": "スパイゴッツ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "ジモティー",
         "pronounciation": "ジャイモタィ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Active Directory",
         "pronounciation": "アクタイブ ダイレクトリィ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "VIVE XR Elite",
         "pronounciation": "ヴィヴェ クスル エリテ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Visual Studio Code",
         "pronounciation": "バイシュアル スチューディオ コーデ",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Bacchus",
         "pronounciation": "バクチュス",
-        "audio": "github.mp3"
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "x86",
         "pronounciation": "ペケヤロ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "pixiv",
         "pronounciation": "ピカイブ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "numpy",
         "pronounciation": "ナンピー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "人生",
         "pronounciation": "ひといき",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "unique",
         "pronounciation": "アンイク",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Qiita",
         "pronounciation": "クワイエー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "OpenCV",
         "pronounciation": "オパンコフ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "linux-firmware",
         "pronounciation": "リンユックス フィーマウェイレイ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "launch",
         "pronounciation": "ラ ウンチ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "怒槌",
         "pronounciation": "ドトール",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "online",
         "pronounciation": "オンリネ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "yure",
         "pronounciation": "ヤァー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "threshold",
         "pronounciation": "ツレッシュ オールド",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "IEEE",
         "pronounciation": "イエエエ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "iPhone",
         "pronounciation": "イフィネ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Adobe",
         "pronounciation": "エイドゥビ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Gentoo",
         "pronounciation": "厳冬",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "BUFFALO",
         "pronounciation": "ブッフェイ郎",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "USB PD",
         "pronounciation": "ウスブ ペデ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Skype",
         "pronounciation": "スキーペ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Discord",
         "pronounciation": "ダイズコーデ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "mixi",
         "pronounciation": "毎回",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Wi-Fi",
         "pronounciation": "ダブルアイ フィー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Microsoft Bing",
         "pronounciation": "ミクソフッ ビンジィ",
-        "audio": ""
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Arch Linux",
         "pronounciation": "アルケ リニュクス",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "comma",
         "pronounciation": "シオーッメエイ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "花火",
         "pronounciation": "ハナバイ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "GPA",
         "pronounciation": "グパ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "なかやまきんに君",
         "pronounciation": "なかやま きんないくん",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "GIKEN",
         "pronounciation": "外見",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Flutter",
         "pronounciation": "フルッテル",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "GU",
         "pronounciation": "グー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "KADOKAWA",
         "pronounciation": "ケイ ドゥ ケイウェイ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "OpenWrt",
         "pronounciation": "オーペンウェルツ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Moomin",
         "pronounciation": "モーミン",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Easy Anti-Cheat",
         "pronounciation": "エアサイ アンタイキイート",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "AUR",
         "pronounciation": "アウル",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Shift-JIS",
         "pronounciation": "シャイフト ジャイス",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Wikipedia",
         "pronounciation": "ワイキーペイヂャ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "SQLAlchemy",
         "pronounciation": "スクール アルチメイ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Pictochat",
         "pronounciation": "パイクトォクアット",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Figma",
         "pronounciation": "ファイィメエ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "dig",
         "pronounciation": "ダイジ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Amazon Prime Reading",
         "pronounciation": "エイメイゾン プライミー リエーダイング",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "つみたてNISA",
         "pronounciation": "積み立て 無いさ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Okayama",
         "pronounciation": "オーケーエィアムア",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "青軸",
         "pronounciation": "エイオジャイク",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Majestouch",
         "pronounciation": "メイジーストーゥク",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Zig",
         "pronounciation": "ザイジ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "RAID",
         "pronounciation": "ルアイドゥ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "iFixit",
         "pronounciation": "イ フィカイッツ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Snapdragon",
         "pronounciation": "スネイプ ドレイゴヌ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "virt-manager",
         "pronounciation": "ヴィレテ マンアガー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Mi Band",
         "pronounciation": "マイ ベイヌティー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "GNOME",
         "pronounciation": "ジエンオミー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "TOSHIBA",
         "pronounciation": "トゥシャイバ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Panasonic",
         "pronounciation": "パンアズオナイック",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "KIOXIA",
         "pronounciation": "カイオクサイア",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "天神",
         "pronounciation": "ティーンジャイヌ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "MIDI",
         "pronounciation": "マイダイ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Unreal Engine",
         "pronounciation": "ユーヌレエールエヌガイネ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "JetBrains",
         "pronounciation": "ジーツブレエアインス",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "bash_history",
         "pronounciation": "ベイシ ハイスツオライ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "ice coffee",
         "pronounciation": "アイチェコフェー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Pale Ale",
         "pronounciation": "パレアルイー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "MIUI",
         "pronounciation": "マイウイー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Arduino",
         "pronounciation": "エイルドゥアインオー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "HARD OFF",
         "pronounciation": "ヘイラード オッフ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "gif",
         "pronounciation": "ガイフ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "anti",
         "pronounciation": "安泰",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Minecraft",
         "pronounciation": "ミーニィシーレイフツ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Unity",
         "pronounciation": "ウナイタイ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Android Studio",
         "pronounciation": "エインドロアイド ストゥダィオ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "MacBook Air",
         "pronounciation": "メイクボオーック アイル",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Bitwarden",
         "pronounciation": "バイツワルディーン",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "nicovideo",
         "pronounciation": "ナイコヴァイデオ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Hiroshima City University",
         "pronounciation": "ハイロシャイマ サイティー ユナイブアーサイティー",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "MIT License",
         "pronounciation": "マイト ィシーエンセ",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "nginx",
         "pronounciation": "ンジャインクス",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     },
     {
         "word": "Twitter",
         "pronounciation": "トワイッター",
-        "audio": ""
+        "description": "",
+        "audio": "github.mp3",
+        "actor": "VOICEVOX ずんだもん"
     }
 ]

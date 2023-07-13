@@ -18,16 +18,23 @@ export default async function WordPage({ params }: { params: WordPageParams }) {
     (row: Word) => encodeURIComponent(row.word) === params.id
   );
 
-  const this_url = "https://weird-pronounciation.vercel.app/word/" + params.id;
-  const this_title = `異常発音 - ${word.word} (${word.pronounciation})`;
-
   if (word && typeof word.pronounciation !== "undefined") {
+    const this_url =
+      "https://weird-pronounciation.vercel.app/word/" + params.id;
+    const this_title = `異常発音 - ${word.word} (${word.pronounciation})`;
     return (
       <div className="mt-5">
         <p className="text-center font-serif text-2xl">{word.pronounciation}</p>
         <p className="text-center font-mono text-6xl">{word.word}</p>
         <div className="text-center">
           <Share title={this_title} url={this_url} />
+        </div>
+        <div className="mx-auto max-w-xs">
+          {word.actor !== "" && (
+            <audio controls>
+              <source src={`/words/voices/${word.word}.wav`} type="audio/wav" />
+            </audio>
+          )}
         </div>
         <div className="font-serif mt-1">{word.description}</div>
       </div>

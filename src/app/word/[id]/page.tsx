@@ -31,9 +31,15 @@ export default async function WordPage({ params }: { params: WordPageParams }) {
         </div>
         <div className="mx-auto max-w-xs">
           {word.actor !== "" && (
-            <audio controls>
-              <source src={`/words/voices/${word.word}.wav`} type="audio/wav" />
-            </audio>
+            <>
+              <audio controls>
+                <source
+                  src={`/words/voices/${word.word}.wav`}
+                  type="audio/wav"
+                />
+              </audio>
+              <p className="text-center">CV: {word.actor}</p>
+            </>
           )}
         </div>
         <div className="font-serif mt-1">{word.description}</div>

@@ -13,7 +13,6 @@ type WordPageParams = {
 
 export default async function WordPage({ params }: { params: WordPageParams }) {
   const words = await getWords();
-  const query = params.id.replace("%20", " ");
   const word = words.find(
     (row: Word) => encodeURIComponent(row.word) === params.id
   );

@@ -11,6 +11,34 @@ type WordPageParams = {
   id: string;
 };
 
+export async function generateMetadata({ params }: { params: WordPageParams }) {
+  const words = await getWords();
+  const word = words.find(
+    (row: Word) => encodeURIComponent(row.word) === params.id
+  );
+
+  if (word && typeof word.pronounciation !== "undefined") {
+    return {
+      title: `異常発音 - ${word.word}`,
+      description: `${word.word} (${word.pronounciation})`,
+      openGraph: {
+        title: word.word,
+        description: word.pronounciation,
+        siteName: "異常発音",
+      },
+    };
+  } else {
+    return {
+      title: `異常発音 - Not found`,
+      description: `Not found`,
+      openGraph: {
+        title: "Not found",
+        siteName: "異常発音",
+      },
+    };
+  }
+}
+
 export default async function WordPage({ params }: { params: WordPageParams }) {
   const words = await getWords();
   const word = words.find(
@@ -21,6 +49,7 @@ export default async function WordPage({ params }: { params: WordPageParams }) {
     const this_url =
       "https://weird-pronounciation.vercel.app/word/" + params.id;
     const this_title = `異常発音 - ${word.word} (${word.pronounciation})`;
+
     return (
       <div className="mt-5">
         <p className="text-center font-serif text-2xl">{word.pronounciation}</p>

@@ -70,7 +70,9 @@ export default async function WordPage({ params }: { params: WordPageParams }) {
             </>
           )}
         </div>
-        <div className="font-serif mt-1">{word.description}</div>
+        {word.description !== "" && (
+          <div className="font-serif mt-1">{word.description}</div>
+        )}
       </div>
     );
   } else {

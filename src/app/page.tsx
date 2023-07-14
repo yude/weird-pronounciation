@@ -3,7 +3,7 @@ import WordList from "./components/Words";
 export default function Home() {
   return (
     <>
-      <p>
+      <p className="text-right">
         Accepting submissions on{" "}
         <a
           className="underline"

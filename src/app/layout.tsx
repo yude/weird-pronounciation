@@ -14,11 +14,21 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ja">
-      <body className="max-w-2xl mx-auto mt-2">
-        <div className="text-center font-serif bg-pink-200/75 text-4xl tracking-wide decoration-pink-500 decoration-4">
-          <p style={{ transform: `scaleX(2.9)` }}>
-            <Link href="/">異常発音</Link>
-          </p>
+      <body className="max-w-2xl mx-auto">
+        <div className="text-center font-serif bg-pink-200/75 tracking-wide decoration-pink-500 decoration-4">
+          <Link href="/">
+            <p
+              className="text-6xl"
+              style={{
+                transform: `scale(1, 0.4)`,
+                marginTop: "-12px",
+                marginBottom: "-16px",
+              }}
+            >
+              異常発音
+            </p>
+            <p className="text-md">Weird pronounciation</p>
+          </Link>
         </div>
         {children}
       </body>

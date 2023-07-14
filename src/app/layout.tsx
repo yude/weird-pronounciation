@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ja">
-      <body className="max-w-2xl mx-auto">
+      <body className="max-w-2xl mx-auto mb-3">
         <div className="text-center font-serif bg-pink-200/75 tracking-wide decoration-pink-500 decoration-4">
           <Link href="/">
             <p

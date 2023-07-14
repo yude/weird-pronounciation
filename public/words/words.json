@@ -598,5 +598,29 @@
         "pronounciation": "はいかきん",
         "description": "",
         "actor": "VOICEVOX ずんだもん"
+    },
+    {
+        "word": "Google",
+        "pronounciation": "ゴーグルエ",
+        "description": "",
+        "actor": "VOICEVOX ずんだもん"
+    },
+    {
+        "word": "Android",
+        "pronounciation": "エインデルオーイデ",
+        "description": "",
+        "actor": "VOICEVOX ずんだもん"
+    },
+    {
+        "word": "Chrome",
+        "pronounciation": "チョロメ",
+        "description": "",
+        "actor": "VOICEVOX ずんだもん"
+    },
+    {
+        "word": "Vercel",
+        "pronounciation": "ヴェルツェル",
+        "description": "",
+        "actor": "VOICEVOX ずんだもん"
     }
 ]

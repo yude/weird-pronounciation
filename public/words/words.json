@@ -670,5 +670,11 @@
         "pronounciation": "はらがみ",
         "description": "",
         "actor": "VOICEVOX ずんだもん"
+    },
+    {
+        "word": "Kubernetes",
+        "pronounciation": "キューベルネッティース",
+        "description": "",
+        "actor": "VOICEVOX ずんだもん"
     }
 ]
